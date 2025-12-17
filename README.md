@@ -37,4 +37,4 @@ It provides a **live overview of WinCC and related SQL services**, allowing you 
 
 MIT License  
 
-📌 **Download the exe here:** https://github.com/Danial-LaeleYousef/Wincc_Service.git](https://github.com/Danial-LaeleYousef/Wincc_Service/releases/tag/V1.1
+📌 **Download the exe here:** https://github.com/Danial-LaeleYousef/Wincc_Service/releases/tag/V1.1
